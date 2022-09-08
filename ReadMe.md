@@ -3,7 +3,7 @@
 
 ## Deployed Link
 
-[Project Link]()
+[Project Link](https://phani-sai-tesla-clone.netlify.app/)
 
 ## Built with:
 
